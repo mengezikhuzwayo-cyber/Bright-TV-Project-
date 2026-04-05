@@ -25,11 +25,20 @@ The main objectives of the BrightTV Data Analytics Project are:
 + To suggest initiatives for growing BrightTV’s subscription base
 + To convert raw data into meaningful dashboards and visual insights for decision-making.
 
+## Tools and Technologies 
+The following tools were utilized throughout the project to ensure efficient data processing, analysis, and presentation:
++ SQL – Used for data processing, querying, and transforming raw datasets into structured formats for analysis.
++ Databricks – Used for data ingestion, data engineering, and running scalable data processing workflows.
++ GitHub – Used as a repository to store project files, reports, and version control for the analytics work.
++ Microsoft Excel – Used for data aggregation, preliminary analysis, and basic data visualization.
++ Canva – Used to design and present the final presentation report in a visually engaging format.
++ Miro – Used for project planning, brainstorming, and mapping out the data analytics workflow.
+
 ## Summary 
 The analysis of BrightTV data provided valuable insights into user behavior and platform performance:
-+ Identified peak and low viewing periods based on session data
-+ Discovered key drivers of content consumption, such as time of day and content type
-+ Highlighted opportunities to improve engagement during low-activity periods
-+ Provided content recommendations to increase viewership on underperforming days
-+ Suggested strategic initiatives such as targeted marketing, personalized recommendations, and content scheduling
-Overall, the project enabled BrightTV to better understand its audience, optimize content delivery, and implement strategies to grow its subscription base and improve customer retention
++ Identified peak and low viewing periods based on session data.
++ Discovered key drivers of content consumption, such as time of day and content type.
++ Highlighted opportunities to improve engagement during low-activity periods.
++ Provided content recommendations to increase viewership on underperforming days.
++ Suggested strategic initiatives such as targeted marketing, personalized recommendations, and content scheduling.
++ Overall, the project enabled BrightTV to better understand its audience, optimize content delivery, and implement strategies to grow its subscription base and improve customer retention.
